@@ -1,3 +1,1 @@
-cloudfront to cache the movies content
-
-origin -- s3bbucket
+changing as per new developments
